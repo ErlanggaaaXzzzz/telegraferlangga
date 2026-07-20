@@ -1,6 +1,6 @@
 {
   "name": "telegraferlangga",
-  "version": "4.16.3-erlangga.4",
+  "version": "4.16.4",
   "description": "Modern Telegram Bot Framework, extended with extra context helpers (fork of Telegraf)",
   "license": "MIT",
   "author": "Erlangga",
